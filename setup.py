@@ -31,7 +31,7 @@ CROMEDRIVER_LATEST_VERSION_PATTERN = re.compile(
 # Global variables
 chromedriver_version = None
 chromedriver_checksums = None
-version = '2.36'
+version = '2.35'
 
 def get_chromedriver_version():
     """Retrieves the most recent chromedriver version."""
